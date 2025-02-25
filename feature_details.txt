@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 In-game purchase feature has been added.
+=======
+New feature added to the game for in-game purchases
+>>>>>>> feature-update
